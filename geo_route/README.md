@@ -7,7 +7,7 @@ result = format_coordinates((55.760221, 37.618561), (55.761918, 37.621525), (55.
 ya_map(result)
 ```
 ### Output
-![Map]()
+![Map](https://github.com/Kotyga/muesli_mipt_hack_2024/blob/main/geo_route/img/Map1.png)
 
 ## Пример работы второго сервиса 
 
@@ -15,7 +15,7 @@ ya_map(result)
 graf_map((55.760221, 37.618561), (55.761918, 37.621525))
 ```
 ### Output
-![Map]()
+![Map](https://github.com/Kotyga/muesli_mipt_hack_2024/blob/main/geo_route/img/Map2.png)
 
 # Ответственный за разработку
 1. Майя Котыга
