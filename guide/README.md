@@ -8,7 +8,7 @@
 
 # Архитектура решения
 
-![RAG]()
+![RAG](https://github.com/Kotyga/muesli_mipt_hack_2024/blob/main/guide/img/RAG.png)
 
 # Ответственный за разработку
 1. Майя Котыга
