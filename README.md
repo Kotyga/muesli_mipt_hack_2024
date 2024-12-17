@@ -86,7 +86,7 @@
 ### Классификатор отзывов
 
 ## Диаграмма Гантта
-![Gantt]()
+![Gantt](https://github.com/Kotyga/muesli_mipt_hack_2024/blob/main/src/Gantt.png)
 
 ## Зависимости
 
