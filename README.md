@@ -3,7 +3,7 @@
 # Бизнес-кейс
 
 # Бизнес процессы
-![BPMN]()
+![BPMN](https://github.com/Kotyga/muesli_mipt_hack_2024/blob/main/src/BPMN.png)
 
 # Диаграмма Ганта
 ![Gant]()
