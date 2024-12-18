@@ -1,0 +1,4 @@
+.env
+.idea
+new_hack.csv
+precomputed_embeddings.pkl
