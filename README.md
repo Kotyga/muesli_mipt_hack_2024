@@ -1,5 +1,7 @@
 # muesli_mipt_hack_2024. Команда 1 "М-мюсли"
 
+![GitHub Views](https://views.whatilearened.today/views/github/Kotyga/muesli_mipt_hack_2024.svg)
+
 ## Бизнес-кейс: Умный гид по историческим городам России
 
 ### 1. Проблема:
