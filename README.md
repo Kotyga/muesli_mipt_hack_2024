@@ -19,7 +19,7 @@
 
 Посмотреть на работу сервиса можно по ссылке:
 
-![Demo](https://github.com/Kotyga/muesli_mipt_hack_2024/blob/main/demo/demo.MP4)
+![Demo](https://youtube.com/shorts/_PI1LNybfTM?feature=share)
 
 ### 4. Целевая аудитория:
 
