@@ -1,4 +1,4 @@
-# muesli_mipt_hack_2024
+# muesli_mipt_hack_2024. Команда 1 "М-мюсли"
 
 ## Бизнес-кейс: Умный гид по историческим городам России
 
@@ -72,22 +72,66 @@
 ![BPMN](https://github.com/Kotyga/muesli_mipt_hack_2024/blob/main/src/BPMN.png)
 
 ## Архитектура
+Дополнительно документацию по каждому микросервису можно найти ниже:
 
-### Поиск мест по фото
+[Tg-бот](https://github.com/Kotyga/muesli_mipt_hack_2024/tree/main/web_app/tg_bot)
 
-### Поиск мест по текстовому описанию
+[Поиск мест по фото](https://github.com/Kotyga/muesli_mipt_hack_2024/blob/main/photo2place/README.md)
 
-### Маршрутизация
+[Поиск мест по текстовому описани](https://github.com/Kotyga/muesli_mipt_hack_2024/tree/main/text2place)
 
-### Гид
+[Маршрутизация](https://github.com/Kotyga/muesli_mipt_hack_2024/tree/main/geo_route)
 
-### Аудиогид
+[Гид](https://github.com/Kotyga/muesli_mipt_hack_2024/blob/main/guide/README.md)
 
-### Классификатор отзывов
+[Аудиогид](https://github.com/Kotyga/muesli_mipt_hack_2024/blob/main/audio_guide/README.md)
+
+[Классификатор отзывов](https://github.com/Kotyga/muesli_mipt_hack_2024/blob/main/feedback_classifier/README.md)
+
+[Дата инжиниринг](https://github.com/Kotyga/muesli_mipt_hack_2024/blob/main/data/README.md)
 
 ## Диаграмма Гантта
 ![Gantt](https://github.com/Kotyga/muesli_mipt_hack_2024/blob/main/src/Gantt.png)
 
-## Зависимости
+## Установка
+Вы можете скачать репозиторий с помощью команды Git. Откройте терминал и выполните следующую команду:
+
+```shell
+git clone https://github.com/Kotyga/muesli_mipt_hack_2024.git
+```
+
+### Как использовать
+После того как вы скачали репозиторий, вы можете использовать скрипты и ноутбуки.
+
+### Как установить зависимости
+Для установки необходимых зависимостей, выполните следующую команду в терминале:
+
+```shell
+pip install -r requirements.txt
+```
+
+Файл requirements.txt содержит список всех необходимых библиотек для работы с проектом.
+
+### Как создать окружение
+Рекомендуется создать виртуальное окружение для работы с проектом:
+
+ 1. Создание виртуального окружения
+
+```shell
+python -m venv myenv
+```
+ 2. Активация виртуального окружения (Windows)
+ ```shell
+myenv\Scripts\activate
+```
+ 3. Активация виртуального окружения (Mac/Linux)
+ ```shell
+source myenv/bin/activate
+```
+ 4. После активации окружения установите зависимости, как указано в пункте выше.
+
+### Инференс
+ Наше решение использует ноды DataSphere для разворачивания наших микросервисов. Для воспроизведения результатов можете проследовать инструкции ниже.
+ Важное замечание, если у вас не получается достичь тех же результатов, обратитесь к актуальной документации [Yandex Cloud](https://yandex.cloud/ru/docs) и повторите шаги оттуда.
 
 ## Руководство по разворачиванию микросервисов
