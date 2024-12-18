@@ -82,7 +82,7 @@
 
 [Поиск мест по фото](https://github.com/Kotyga/muesli_mipt_hack_2024/blob/main/photo2place/README.md)
 
-[Поиск мест по текстовому описани](https://github.com/Kotyga/muesli_mipt_hack_2024/tree/main/text2place)
+[Поиск мест по текстовому описанию](https://github.com/Kotyga/muesli_mipt_hack_2024/tree/main/text2place)
 
 [Маршрутизация](https://github.com/Kotyga/muesli_mipt_hack_2024/tree/main/geo_route)
 
