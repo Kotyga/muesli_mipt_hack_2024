@@ -19,7 +19,7 @@
 
 Посмотреть на работу сервиса можно по ссылке:
 
-<iframe src="https://youtube.com/shorts/_PI1LNybfTM?feature=share"></iframe>
+https://youtube.com/shorts/_PI1LNybfTM
 
 ### 4. Целевая аудитория:
 
